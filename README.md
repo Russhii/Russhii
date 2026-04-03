@@ -72,7 +72,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Russhii&layout=compact&theme=tokyonight&hide_border=true&hide=python)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Russhii&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
