@@ -68,7 +68,7 @@
 <div align="center">
 
 
-![Rushikesh's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Russhii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Rushikesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Russhii&theme=github-compact&hide_border=true&color=00FF41&line=00FF41&point=00FF41&area=true&area_color=00FF41)
 
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Russhii&layout=compact&theme=tokyonight&hide_border=true&hide=python)
 
