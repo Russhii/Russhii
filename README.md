@@ -67,9 +67,6 @@
 
 <div align="center">
 
-![Rushikesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Russhii&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Russhii&layout=compact&theme=tokyonight&hide_border=true&hide=python)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Russhii&theme=tokyonight&hide_border=true)
 </div>
 
