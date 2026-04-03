@@ -82,6 +82,4 @@
 
 *"Building software that matters — one commit at a time."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=0175C2&style=for-the-badge)
-
 </div>
